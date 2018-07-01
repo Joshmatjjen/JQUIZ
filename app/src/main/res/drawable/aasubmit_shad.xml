@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/aashadow" />
+    <item
+        android:bottom="4px"
+        android:drawable="@drawable/aasubmit_btn" />
+
+</layer-list>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9B0EE5</color>
+    <color name="colorPrimaryDark">#FF640A94</color>
+    <color name="intro">#07000f</color>
+    <color name="white">#fff</color>
+    <color name="dark">#000</color>
+    <color name="black_alpha">#46000000</color>
+    <color name="ash">#9c707070</color>
+    <color name="colorAccent">#9a0ee4</color>
+
+    <!--Android Theme-->
+    <color name="androidPrimary">#7bb242</color>
+    <color name="androidPrimaryDark">#6ea03b</color>
+
+    <!--Java Theme-->
+    <color name="javaPrimary">#fd1100</color>
+    <color name="javaPrimaryDark">#e20f00</color>
+
+    <!--Html Theme-->
+    <color name="htmlPrimary">#fd6d00</color>
+    <color name="htmlPrimaryDark">#e45100</color>
+
+    <!--Css Theme-->
+    <color name="cssPrimary">#039ae4</color>
+    <color name="cssPrimaryDark">#0276bc</color>
+</resources>

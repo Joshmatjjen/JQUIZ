@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/aashadow" />
+    <item
+        android:bottom="8px"
+        android:drawable="@drawable/aaregbox" />
+
+</layer-list>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <font
+    android:fontStyle="normal"
+    android:fontWeight="400"
+    android:font="@font/sanserif_medium" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/raleway_regular" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/jmh_arkham" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/opensans_regular" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/josefinsans_bold" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/roboto_regular" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/exo_regular" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/oswald_regular" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/oswald_light" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/muli_light" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/lato_regular" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/lato_semibold" />
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/librebaskerville_regular" />
+
+</font-family>

@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">JQuiz</string>
+
+    <!--Xml questions-->
+
+    <!--Xml question 1-->
+    <string name="android_q1">What is the full meaning of XML?</string>
+    <string name="android1_op1">Xtendable Markup Language</string>
+    <string name="android1_op2">Extensible Markup Language</string> <!--ans-->
+    <string name="android1_op3">Extendable Markup Language</string>
+    <string name="android1_op4">Expansible Markup Language</string>
+
+    <!--Xml question 2-->
+    <string name="android_q2">Which of the following is NOT a valid usage for Intents?</string>
+    <string name="android2_op1">Activate and Activity.</string>
+    <string name="android2_op2">Activate a Service.</string>
+    <string name="android2_op3"> Activate a Broadcast receiver</string>
+    <string name="android2_op4">Activate a SQLite DB Connection</string> <!--ans-->
+
+    <!--Xml question 3-->
+    <string name="android_q3">What is not true about the AndroidManifest.xml file?</string>
+    <string name="android3_op1"> mylayout.xml</string>
+    <string name="android3_op2">myLayout.xml</string><!--ans-->
+    <string name="android3_op3">my_layout.xml</string>
+    <string name="android3_op4">mylayout1.xml</string>
+
+    <!--Xml question 4-->
+    <string name="android_q4">Which of the following is not a valid Android resource file name?</string>
+    <string name="android4_op1">It declares the views used within the application.</string><!--ans-->
+    <string name="android4_op2">It declares user permissions the application requires.</string>
+    <string name="android4_op3">It declares application components.</string>
+    <string name="android4_op4">It declares hardware and software features used within the application.</string>
+
+    <!--Xml question 5-->
+    <string name="android_q5">Which of the following is not an Android component (i.e. a point from which the system can
+enter your application)?</string>
+    <string name="android5_op1"> Service</string>
+    <string name="android5_op2">Activity</string>
+    <string name="android5_op3">Layout</string><!--ans-->
+    <string name="android5_op4">Content Provider</string>
+
+    <!--Xml question 6-->
+    <string name="android_q6">Which of the following is incorrect about the LogCat tool?</string>
+    <string name="android6_op1">A LogCat view is available as part of the ADT plugin of Eclipse.</string>
+    <string name="android6_op2">You can create a log in your application using Log.v(String, String).</string>
+    <string name="android6_op3">Each log message has a tag.</string>
+    <string name="android6_op4">Only one of your application can create log entries, and it should be component class (Activity, Service,...etc).
+ 0'</string><!--ans-->
+
+    <!--Xml question 7-->
+    <string name="android_q7">Which method is used to close an activity?</string>
+    <string name="android7_op1">Destroy()</string>
+    <string name="android7_op2">Finish()</string><!--ans-->
+    <string name="android7_op3">Stop()</string>
+    <string name="android7_op4">Close()</string>
+
+    <!--Xml question 8-->
+    <string name="android_q8">Which of the following lines of code starts activity Activity2 from a current activity Activity1?</string>
+    <string name="android8_op1">Intent intent = new Intent(this,new Activity2());startActivity(intent);</string>
+    <string name="android8_op2">Intent intent = new Intent(new Activity2());startActivity(intent);</string>
+    <string name="android8_op3">Intent intent = new Intent (Activity1.class,Activity2.class);startActivity(intent);</string>
+    <string name="android8_op4">Intent intent = new Intent(this,Activity2.class);startActivity(intent);
+ 0 </string><!--ans-->
+
+    <!--Xml question 9-->
+    <string name="android_9">Which of the following Activity methods is invoked when the user clicks on an options menu
+item?</string>
+    <string name="android9_op1">onItemClicked</string>
+    <string name="android9_op2">onItemSelected</string>
+    <string name="android9_op3">onOptionsItemClicked</string>
+    <string name="android9_op4">onOptionsItemSelected</string><!--ans-->
+
+    <!--Xml question 10-->
+    <string name="android_q10">Which of the following attributes is used to set an activity screen to landscape orientation?</string>
+    <string name="android10_op1">screenorientation = landscape</string>
+    <string name="android10_op2">screenOrientation=”landscape”</string>
+    <string name="android10_op3">android:ScreenOrientation=“landscape”</string>
+    <string name="android10_op4">android:screenOrientation=”landscape”</string><!--ans-->
+
+</resources>
